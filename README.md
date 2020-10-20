@@ -1,3 +1,28 @@
+🤠  Cloudflare 2020 General Engineering Assignment for Full Time Software Engineer - New Grad (2021)
+
+## Explanation
+
+Below is building of a link-tree style static HTML page and JSON API using Cloudflare workers.
+
+Demo - https://cloudflare2020.harlikshah.workers.dev
+
+## Files
+
+### wranger.toml
+wrangler configuration for worker project (using webpack as type)
+### package.json 
+project configuration for any node related matters
+### index.js 
+Request working of links, static html page and other social links attachment
+
+## Getting started
+
+1. Install wrangler using either NPM or Cargo
+2. wrangler dev to test locally
+3. Open 127.0.0.1:8787 in your browser
+
+
+Link to General Assignment - https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment
 # General Assignment
 
 ## What is it?
